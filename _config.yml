@@ -1,17 +1,17 @@
 # Site settings
-title: Y Blog
-SEOTitle: 杨佳欣的博客 | Y Blog
+title: Chris Blog
+SEOTitle: 杨佳欣的博客 | Chris Blog
 header-img: img/post-bg-desk.jpg
 email: 1752346954@qq.com
 description: "Il n'ya qu'un héroïsme au monde : c'est de voir le monde tel qu'il est et de l'aimer."
-keyword: "BY, BY Blog, 杨佳欣的博客, Yangjiaxin, 杨佳欣, iOS, Apple, iPhone, Java"
+keyword: "Chris, Chris Blog, 杨佳欣的博客, Yangjiaxin, 杨佳欣, iOS, Apple, iPhone, Java"
 url: "https://github.com/Yangjiaxin121"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Yangjiaxin121/Yangjiaxin121.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "I'm trying!"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
+zhihu_username:     小过0.0
 github_username:    Yangjiaxin121
 facebook_username:  小过0.0
 jianshu_username:   893073bb712a
