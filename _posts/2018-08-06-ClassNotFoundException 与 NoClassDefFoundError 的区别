@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      4道Java面试题
+title:      ClassNotFoundException 与 NoClassDefFoundError 的区别
 subtitle:   Java 面试 ClassNotFoundException
 date:       2018-08-06
 author:     Yangjiaxin121
